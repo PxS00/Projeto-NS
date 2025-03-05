@@ -19,7 +19,7 @@ Este é um projeto de teste para aprender a usar o Git e o GitHub e estudos de p
 
 ## 📝 Sobre
 
-Criado para fins de aprendizado e prática com Git e GitHub e estudo com JavaScript e HTML.
+Criado para fins de teste e prática com Git e GitHub e estudo com JavaScript e HTML.
 
 ## Time
 
