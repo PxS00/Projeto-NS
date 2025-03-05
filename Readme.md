@@ -23,7 +23,8 @@ Criado para fins de teste e prática com Git e GitHub e estudo com JavaScript e 
 
 ## Time
 
-<img src="https://github.com/user-attachments/assets/2ef65fde-7f34-441f-95f9-089d429e73fb" width="150px">
+<img src="https://github.com/user-attachments/assets/b9538a58-b50d-4dd0-b7a6-5ab3a3d5979f" width="150px">
+
 
 
  **Feito por [Lucas Rossoni Dieder](https://github.com/PxS00)** 
