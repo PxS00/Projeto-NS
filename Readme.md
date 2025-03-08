@@ -9,11 +9,11 @@ Este é um projeto de teste para aprender a usar o Git e o GitHub e estudos de p
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/PxS00/Numero-Secreto-v2.git
+   git clone https://github.com/PxS00/Projeto-NS.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd Numero-Secreto-v2
+   cd Projeto-NS
    ```
 3. Execute o projeto conforme necessário.
 
