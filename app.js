@@ -28,7 +28,7 @@ function verificarChute() {
         exibirTextoNaTela('p', `Você descobriu o número secreto com ${tentativas} ${tentativas > 1 ? 'tentativas' : 'tentativa'}!`) //operador ternário
         reiniciarBtn.removeAttribute('disabled');
     } else {
-        exibirTextoNaTela('h1', 'Errou :(');
+        exibirTextoNaTela('h1', 'Errou, tente novamente!');
         exibirTextoNaTela('p', `O número secreto é ${chute > numeroSecreto ? 'menor' : 'maior'}`); //operador ternário
     }
     tentativas++
